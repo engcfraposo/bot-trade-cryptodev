@@ -5,8 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.26.1",
+
     "crypto": "^1.0.1",
     "currency-formatter": "^1.5.9",
-    "telegraf": "^4.7.0"
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.7.0",
   }
 }
